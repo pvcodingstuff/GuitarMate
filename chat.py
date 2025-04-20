@@ -4,7 +4,7 @@ import google.generativeai as genai
 from dotenv import load_dotenv
 load_dotenv()
 
-genai.configure(api_key='AIzaSyBmBQRhQRTssd5Y9KxuS5aXS44G7ky6kAc')  # Directly pass your API key
+genai.configure(api_key='INSERT_API_KEY_HERE')  # Directly pass your API key
 
 # Create the model
 generation_config = {
