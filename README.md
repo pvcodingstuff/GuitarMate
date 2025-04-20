@@ -1,4 +1,4 @@
-# GuitarMate
+# MusicMate
 Your new companion to teach you guitar and music theory!
 
 Learning music theory and guitar can be challenging and often feels isolating. We wanted to create an accessible and engaging way for aspiring musicians to learn at their own pace, with personalized guidance from an AI.
